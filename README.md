@@ -23,11 +23,10 @@ Track burning → burnt → alive states.
 Plot dynamics over time.
 
 References
-Park, J., Moon, M., Green, T., Kang, M., Cho, S., Lim, J., & Kim, S.-J. (2024). Impact of tree species composition 	on fire resistance in temperate forest stands. Forest Ecology and Management, 572, 122279. 	https://doi.org/10.1016/j.foreco.2024.122279
+Park, J., Moon, M., Green, T., Kang, M., Cho, S., Lim, J., & Kim, S.-J. (2024). Impact of tree species composition on fire resistance in temperate forest stands. Forest Ecology and Management, 572, 122279. 	https://doi.org/10.1016/j.foreco.2024.122279
 
 Popović, Z., Bojović, S., Marković, M., & Cerdà, A. (2021). Tree species flammability based on plant traits: A 	synthesis. Science of The Total Environment, 800, 149625. 	https://doi.org/10.1016/j.scitotenv.2021.149625
 
-Storey, M. A., Price, O. F., Almeida, M., Ribeiro, C., Bradstock, R. A., & Sharples, J. J. (2021). Experiments on 	the 	influence of spot fire and topography interaction on fire rate of spread. PLOS ONE, 16(1), 	e0245132. https://doi.org/10.1371/journal.pone.0245132
+Storey, M. A., Price, O. F., Almeida, M., Ribeiro, C., Bradstock, R. A., & Sharples, J. J. (2021). Experiments on the influence of spot fire and topography interaction on fire rate of spread. PLOS ONE, 16(1), 	e0245132. https://doi.org/10.1371/journal.pone.0245132
 
-Wang, G. G. (2002). Fire severity in relation to canopy composition within burned boreal mixedwood 	stands. Forest Ecology and Management, 163(1–3), 85–92. 	https://doi.org/10.1016/S03781127(01)00529-1
-<img width="4425" height="351" alt="image" src="https://github.com/user-attachments/assets/47df3260-452b-47a2-8ae3-ef7813cd1c31" />
+Wang, G. G. (2002). Fire severity in relation to canopy composition within burned boreal mixedwood stands. Forest Ecology and Management, 163(1–3), 85–92. 	https://doi.org/10.1016/S03781127(01)00529-1
