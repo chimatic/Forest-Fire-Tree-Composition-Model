@@ -13,13 +13,21 @@ NTs in forests with a higher proportion of BTs exhibit similar fire damage to BT
 
 
 Model Rules:
+
 Randomly assign BT/NT based on proportion.
+
 Ignite fire in an NT tree.
+
 NT with at least 3 BT neighbors do not burn
+
 BT with at least 3 BT neighbors burn
+
 BT ratio controls frie intensity. More NT, higher fire intensity, and high spread probability. 
+
 More BT, lower fire intensity, and lower spread probability.
+
 Track burning → burnt → alive states.
+
 Plot dynamics over time.
 
 References
