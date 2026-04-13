@@ -31,6 +31,7 @@ Track burning → burnt → alive states.
 Plot dynamics over time.
 
 References
+
 Park, J., Moon, M., Green, T., Kang, M., Cho, S., Lim, J., & Kim, S.-J. (2024). Impact of tree species composition on fire resistance in temperate forest stands. Forest Ecology and Management, 572, 122279. 	https://doi.org/10.1016/j.foreco.2024.122279
 
 Popović, Z., Bojović, S., Marković, M., & Cerdà, A. (2021). Tree species flammability based on plant traits: A 	synthesis. Science of The Total Environment, 800, 149625. 	https://doi.org/10.1016/j.scitotenv.2021.149625
